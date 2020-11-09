@@ -60,7 +60,7 @@ Verkefni sett fyrir í fyrirlestri mánudaginn 2. nóvember 2020.
 
 ## Skil
 
-Skila skal í Canvas í seinasta lagi fyrir lok dags þriðjudaginn 10. nóvember 2020.
+Skila skal í Canvas í seinasta lagi fyrir lok dags föstudaginn 13. nóvember 2020.
 
 Skilaboð skulu innihalda slóð á GitHub repo fyrir verkefni, og dæmatímakennurum skal hafa verið boðið í repo ([sjá leiðbeiningar](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository)). Notendanöfn þeirra eru:
 
@@ -71,7 +71,7 @@ Skilaboð skulu innihalda slóð á GitHub repo fyrir verkefni, og dæmatímaken
 * `Tobbasn`
 * `thth168`
 
-Hver dagur eftir skil dregur verkefni niður um 10%, allt að 30% ef skilað föstudaginn 13. nóvember 2020 en þá lokar fyrir skil.
+Hver dagur eftir skil dregur verkefni niður um 10%, allt að 20% ef skilað mánudaginn 16. nóvember 2020 en þá lokar fyrir skil.
 
 ## Einkunn
 
