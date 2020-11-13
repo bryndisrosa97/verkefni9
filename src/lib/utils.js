@@ -1,18 +1,6 @@
 import { format } from "date-fns";
 
 /**
- * Create an element with attributes and events, and append elements or
- * strings to it.
- * 
- * Usage:
- *  const el = element(
- *    'button',
- *    { 'class': 'button' },
- *    { click: () => { ... } },
- *    'Takki'
- *   );
- *  returns
- *  <button class="button">Takki</button> with a click handler.
  * 
  * @param {string} name Element name
  * @param {object} attributes Object containing attributes to attach to element.
@@ -20,7 +8,7 @@ import { format } from "date-fns";
  * @param  {...any} children List of elements or strings to append to element.
  * @returns {object} HTML element.
  */
-export function element(name, attributes = null, events = null,...children) {
+export function element(name, attributes = null, events = null, ...children) {
   const el = document.createElement(name);
 
   for (const child of children) {
@@ -69,5 +57,5 @@ export function el(name, ...children) {
  * @returns {string} Formatted string.
  */
 export function formatDate(timestamp) {
-  // TODO Útfæra með „vanilla JS“ eða nota date-fns pakka
+  return format(timestamp, 'dd.MM.y HH:mm:ss');
 }
