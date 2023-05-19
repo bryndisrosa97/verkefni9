@@ -1,4 +1,4 @@
-# Verkefni 9
+# Verkefni 9 Earthquakes
 
 ## Lýsing
 
@@ -6,7 +6,11 @@ Verkefni 9 sækir gögn um jarðskjálfta frá USGS og birtir á korti með [Lea
 
 ![](./screenshot)
 
+
 ### Viðmót
+
+![image](https://github.com/bryndisrosa97/verkefni9/assets/61384036/10a2230d-5ee2-45e1-a95f-63943b07ae38)
+
 
 Gefið er `index.html` skjal og grunnur að skrám sem fylla skal inn í m.v. athugasemdir í þeim.
 
@@ -46,37 +50,3 @@ Einnig er leyfilegt að nota `date-fns` til að forma dagsetningar, sjá gefinn 
 
 Þegar verkefni er metið er `npm install` keyrt fyrst, síðan `npm run dev` á að keyra upp verkefni og opna vafra glugga, að lokum `npm test` sem á að keyra eslint og sýna engar villur.
 
-## Mat
-
-* 15% Engar eslint villur í kóða
-* 15% Tól sett upp
-* 20% Leaflet kort sett upp
-* 20% Gögn sótt frá USGS
-* 30% Gögn birt í viðmóti
-
-## Sett fyrir
-
-Verkefni sett fyrir í fyrirlestri mánudaginn 2. nóvember 2020.
-
-## Skil
-
-Skila skal í Canvas í seinasta lagi fyrir lok dags föstudaginn 13. nóvember 2020.
-
-Skilaboð skulu innihalda slóð á GitHub repo fyrir verkefni, og dæmatímakennurum skal hafa verið boðið í repo ([sjá leiðbeiningar](https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-user-account/inviting-collaborators-to-a-personal-repository)). Notendanöfn þeirra eru:
-
-* `GaddiSunshine`
-* `boxandri`
-* `StimmiKex`
-* `jonnigs`
-* `Tobbasn`
-* `thth168`
-
-Hver dagur eftir skil dregur verkefni niður um 10%, allt að 20% ef skilað mánudaginn 16. nóvember 2020 en þá lokar fyrir skil.
-
-## Einkunn
-
-Sett verða fyrir tíu minni verkefni þar sem átta bestu gilda 5% hvert, samtals 40% af lokaeinkunn.
-
-Sett verða fyrir tvö hópverkefni þar sem hvort um sig gildir 10%, samtals 20% af lokaeinkunn.
-
-> Útgáfa 0.1
